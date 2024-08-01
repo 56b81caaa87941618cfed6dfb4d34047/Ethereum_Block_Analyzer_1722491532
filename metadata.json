@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new ethereum blocks",
     "creation_time": "2024-08-01 11:22:12.886702",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vivid and surreal landscape with a dominant color scheme of pink, purple, and black hues, highlighting a large, luminous planet and celestial bodies against a starry background. The style is highly fantastical and otherworldly, creating a visually stunning, dream-like scene."
 }
